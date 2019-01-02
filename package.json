@@ -1,0 +1,20 @@
+{
+  "name": "prtofoliogate",
+  "version": "1.0.0",
+  "description": "Responsive portfolio website",
+  "main": "index.js",
+  "dependencies": {
+    "create-gitignore": "^0.1.0",
+    "node-sass": "^4.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "node-sass -w style/scss/ -o  style/css --recursive"
+  },
+  "author": "Marwa Elbeshry",
+  "license": "MIT",
+  "keywords": [
+    "Marwa's",
+    "portfolio"
+  ]
+}
